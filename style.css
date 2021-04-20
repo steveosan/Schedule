@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=New+Tegomin&display=swap');
+
+body {
+    background-color: rgba(62, 68, 67, 0.575);
+    font-family: 'New Tegomin', serif;
+}
+
+ .output2{
+
+    display: none;
+}
+#Fee-Calculator-Container{
+    background-color: rgb(201, 221, 218);
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 25px;
+    margin-top: 3%;
+    border-radius: 15px;
+}
+#Fee-Calculator-Container h1{
+    text-align: center;
+} 
